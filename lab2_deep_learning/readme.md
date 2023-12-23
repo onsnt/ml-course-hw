@@ -1,0 +1,1 @@
+ответы на вопросы в папке final https://github.com/onsnt/ml-course-hw/blob/main/final/q.pdf
